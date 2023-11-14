@@ -74,7 +74,7 @@ span{
 .images{
     width: 30%;
     height: 50%;
-    position: absolute;
+    position: relative;
     top: 350px;
     bottom: 0;
     right: 15%;
@@ -142,6 +142,7 @@ span{
 
     .images {
         width: 70%; /* Adjust the width for smaller screens */
+        posittion: relative;
         top: 350px;
         bottom: auto;
         right: 30%;
