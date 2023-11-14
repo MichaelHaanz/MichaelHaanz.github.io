@@ -152,6 +152,7 @@ span{
     .images img {
         left: 50%;
         position:relative;
+        margin-top:20%;
         bottom: 0;
         transform: translateX(-50%);
     }
