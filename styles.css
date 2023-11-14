@@ -74,7 +74,7 @@ span{
 .images{
     width: 30%;
     height: 50%;
-    position: relative;
+    position: absolute;
     top: 350px;
     bottom: 0;
     right: 15%;
@@ -82,7 +82,7 @@ span{
 
 .images img{
     height: 50%;
-    position: relative;
+    position: absolute;
     left: 95%;
     bottom: 0;
     transform: translateX(-50%);
@@ -141,9 +141,9 @@ span{
     }
 
     .images {
+        
         width: 70%; /* Adjust the width for smaller screens */
-        posittion: relative;
-        top: 470px;
+        top: 440px;
         bottom: auto;
         right: 30%;
         transform: translateX(50%);
@@ -151,8 +151,6 @@ span{
 
     .images img {
         left: 50%;
-        position:relative;
-        margin-top:20%;
         bottom: 0;
         transform: translateX(-50%);
     }
