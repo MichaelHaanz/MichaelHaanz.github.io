@@ -121,12 +121,9 @@ span{
 @media screen and (max-width: 768px ) {
     .hero{
         background: #e63363;
-        background-repeat: no-repeat;
         background-attachment: fixed;
-        background-size: cover;
+        background-size: 100% 100%;
         background-position: center;
-        width: 100%;
-        height: 350px;
     }
 
     nav {
