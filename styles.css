@@ -123,6 +123,7 @@ span{
         background: #e63363;
         background-size: cover;
         background-attachment: scroll;
+        postion: center;
     }
 
     nav {
