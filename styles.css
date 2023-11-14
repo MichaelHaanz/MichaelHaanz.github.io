@@ -122,8 +122,6 @@ span{
     .hero{
         background: #e63363;
         background-size: cover;
-        background-attachment: scroll;
-        background-position: fixed;
         position: relative;
     }
 
