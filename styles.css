@@ -144,7 +144,7 @@ span{
     .images {
         
         width: 70%; /* Adjust the width for smaller screens */
-        top: 445px;
+        top: 450px;
         bottom: auto;
         right: 30%;
         transform: translateX(50%);
