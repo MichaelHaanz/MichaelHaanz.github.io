@@ -131,13 +131,14 @@ span{
     
 
     nav ul {
+        margin-bottom: 60px;
         margin-right: 50px;
         text-align: center;
     }
 
     .detel {
         margin-left: 5%;
-        margin-top: 2%;
+        margin-top: 1%;
     }
 
     .images {
